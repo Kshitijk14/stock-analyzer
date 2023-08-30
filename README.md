@@ -26,6 +26,10 @@ The Stock Analyzer App is a web application built with Streamlit that fetches an
 ### Install prerequisites:
 - pip install -r REQUIREMENTS.txt
 
+### Add Vantage API Key
+- make a folder named "api.txt"
+- paste your api key directly to the above mentioned file
+
 ### Run Project:
 - streamlit run stock_analyzer_app.py
 
